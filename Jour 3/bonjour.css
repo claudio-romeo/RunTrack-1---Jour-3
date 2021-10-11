@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200&display=swap");
+
+h1 {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 2rem;
+  color: blueviolet;
+  text-shadow: 5px 0 0 rgb(47, 255, 245);
+  text-align: center;
+  font-family: "Source Code Pro", serif;
+}
+.equipe {
+  text-align: center;
+}
+h2 {
+  color: blueviolet;
+  text-align: center;
+}
+.imagebaka {
+  background: fixed;
+  background-size: cover;
+  background: scroll;
+}
